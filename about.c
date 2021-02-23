@@ -9,5 +9,6 @@ int main()
    d=a-b;
    printf("difference is %d",d);
    printf("sum is %d",c);
+   printf("job is done");
    return 0;
 }
